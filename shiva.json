@@ -1,0 +1,160 @@
+{
+    "name": "Shiva KM",
+    "contact": {
+        "email": "shivakm402@gmail.com",
+        "phone": "+91 7094409402",
+        "linkedin": "https://www.linkedin.com/in/shivakm/",
+        "github": "https://github.com/ShivaKM402"
+    },
+    "summary": "Results-driven Python Developer with 1+ year of professional experience building scalable backend systems, AI-powered web applications, and intelligent CRM platforms. Skilled in Python, Django, React.js, and automation tools such as LangChain and n8n. Experienced in integrating Google Vertex AI, Gemini 2.5, and GCP services into production systems.",
+    "skills": {
+        "languages": [
+            "Python",
+            "SQL",
+            "JavaScript"
+        ],
+        "frameworks": [
+            "Django",
+            "Django REST Framework",
+            "Flask",
+            "React.js",
+            "Bootstrap",
+            "LangChain"
+        ],
+        "frontend": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "React.js"
+        ],
+        "ai_ml": [
+            "Google Vertex AI",
+            "Gemini 2.5",
+            "GCP AI",
+            "NLP"
+        ],
+        "automation": [
+            "n8n",
+            "Google Apps Script",
+            "Webhooks",
+            "Email Automation",
+            "REST APIs"
+        ],
+        "database": [
+            "MySQL",
+            "JSON",
+            "CSV",
+            "Database Management Systems"
+        ],
+        "tools": [
+            "Git",
+            "GitHub",
+            "Docker",
+            "Google Cloud Platform"
+        ]
+    },
+    "experience": [
+        {
+            "role": "Python Developer",
+            "company": "Gaude Business Solutions, Techno Park",
+            "location": "Trivandrum, Kerala",
+            "duration": "May 2025 – Present",
+            "description": [
+                "Developing scalable backend services and REST APIs using Python and Django.",
+                "Implementing object-oriented design and agile development practices.",
+                "Collaborating with teams to optimize algorithms and system performance."
+            ]
+        },
+        {
+            "role": "Python Full Stack Intern",
+            "company": "Uniq Technologies",
+            "location": "Chennai, Tamil Nadu",
+            "duration": "Oct 2024 – Mar 2025",
+            "description": [
+                "Completed full-stack Python training covering Django, Flask, HTML, CSS, and JavaScript.",
+                "Built real-world web applications.",
+                "Integrated APIs and automated workflows."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "AI-Powered CRM Platform",
+            "tech": [
+                "Django",
+                "React.js",
+                "Google Vertex AI",
+                "GCP",
+                "MySQL"
+            ],
+            "description": [
+                "Built a CRM system managing the customer lifecycle from email ingestion to lead conversion.",
+                "Used Vertex AI to classify emails and detect product enquiries.",
+                "Implemented automated invoice generation and email pipelines.",
+                "Designed MySQL schemas and dashboards for campaign analytics."
+            ]
+        },
+        {
+            "name": "Virtual Try-On Clothing System",
+            "tech": [
+                "Django",
+                "Gemini 2.5 Flash",
+                "GCP AI",
+                "HTML",
+                "CSS"
+            ],
+            "description": [
+                "Built AI system for virtual clothing try-on using computer vision.",
+                "Integrated Gemini AI for garment overlay and rendering.",
+                "Optimized backend inference performance."
+            ]
+        },
+        {
+            "name": "Web Automation & Scraping Pipeline",
+            "tech": [
+                "Python",
+                "n8n",
+                "APIs"
+            ],
+            "description": [
+                "Built automated workflows to scrape and structure data from dynamic websites.",
+                "Integrated Python scripts with n8n pipelines.",
+                "Stored structured data in CSV, JSON, and MySQL."
+            ]
+        },
+        {
+            "name": "E-Commerce Platform",
+            "tech": [
+                "Django",
+                "Flask",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "description": [
+                "Developed full-stack e-commerce website with product search and payment system.",
+                "Designed scalable backend architecture with Django ORM.",
+                "Built responsive frontend UI."
+            ]
+        },
+        {
+            "name": "Form-to-Google-Sheets Integration",
+            "tech": [
+                "HTML",
+                "Google Apps Script",
+                "Google Sheets"
+            ],
+            "description": [
+                "Created serverless form system storing submissions in Google Sheets.",
+                "Used HTTP POST requests for real-time data submission."
+            ]
+        }
+    ],
+    "education": {
+        "degree": "Bachelor of Engineering in Computer Science and Engineering",
+        "institution": "Ponjesly College of Engineering",
+        "location": "Nagercoil, Tamil Nadu",
+        "duration": "Sep 2020 – Jul 2024",
+        "grade": "First Class"
+    }
+}
